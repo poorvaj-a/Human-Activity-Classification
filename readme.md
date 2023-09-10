@@ -1,4 +1,4 @@
-#Human-Activity-Classification
+# Human-Activity-Classification
 
 In this project we have used 4 techniques to create a classification model.
 Our model is going to give us the action the person is doing. We extract features from physical readings. 
